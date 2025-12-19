@@ -1,16 +1,14 @@
-## Hi there 👋
+<h4 align="left">👋 Hi, I'm Umesh<br><br>
+🎓 AI & Data Science student<br>
+💻 Frontend + DSA (C++)<br>
+🚀 Building projects, learning daily<br><br>
 
-<!--
-**DevUmeshh/DevUmeshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Currently working on:<br>
+- DSA with C++<br>
+- Frontend mini projects<br><br>
 
-Here are some ideas to get you started:
+🔹 Tech Stack:<br>
+HTML | CSS | JavaScript | C++ | Python<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Goal: Become a strong developer & problem solver
+</h4>
