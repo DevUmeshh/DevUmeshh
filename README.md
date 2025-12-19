@@ -16,14 +16,17 @@
   <li>☁️ AWS fundamentals & cloud-based deployments</li>
 </ul>
 
+<hr>
+
 <h4 align="left">🔹 Tech Stack</h4>
-<p align="left">
-🔸 HTML &nbsp;|&nbsp;
-🔸 CSS &nbsp;|&nbsp;
-🔸 JavaScript &nbsp;|&nbsp;
-🔸 C++ &nbsp;|&nbsp;
-🔸 Python &nbsp;|&nbsp;
-🔸 AWS Cloud
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="42" alt="AWS"/>
 </p>
 
 <hr>
