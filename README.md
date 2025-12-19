@@ -1,14 +1,34 @@
-<h4 align="left">👋 Hi, I'm Umesh<br><br>
-🎓 AI & Data Science student<br>
-💻 Frontend + DSA (C++)<br>
-🚀 Building projects, learning daily<br><br>
+<h3 align="left">👋 Hi, I'm Umesh</h3>
 
-🔹 Currently working on:<br>
-- DSA with C++<br>
-- Frontend mini projects<br><br>
+<p align="left">
+🎓 AI & Data Science student <br>
+💻 Frontend Developer & DSA (C++) Learner <br>
+☁️ Exploring AWS Cloud Computing <br>
+🚀 Building projects, learning daily & improving step by step
+</p>
 
-🔹 Tech Stack:<br>
-HTML | CSS | JavaScript | C++ | Python<br><br>
+<hr>
 
-📌 Goal: Become a strong developer & problem solver
-</h4>
+<h4 align="left">🔹 Currently Working On</h4>
+<ul>
+  <li>📘 Data Structures & Algorithms using C++</li>
+  <li>🎨 Frontend mini projects (HTML, CSS, JavaScript)</li>
+  <li>☁️ AWS fundamentals & cloud-based deployments</li>
+</ul>
+
+<h4 align="left">🔹 Tech Stack</h4>
+<p align="left">
+🔸 HTML &nbsp;|&nbsp;
+🔸 CSS &nbsp;|&nbsp;
+🔸 JavaScript &nbsp;|&nbsp;
+🔸 C++ &nbsp;|&nbsp;
+🔸 Python &nbsp;|&nbsp;
+🔸 AWS Cloud
+</p>
+
+<hr>
+
+<p align="left">
+📌 <b>Goal:</b> Become a strong developer & problem solver with solid foundations in
+DSA, Frontend development, and Cloud technologies.
+</p>
