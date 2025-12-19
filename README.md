@@ -20,14 +20,38 @@
 
 <h4 align="left">🔹 Tech Stack</h4>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" style="margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="42" style="margin: 0 12px;" />
+<p align="left" style="font-size:16px;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22"/>
+  <span style="margin-right:18px;"> HTML </span> |
+
+  <span style="margin-left:18px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22"/>
+    <span style="margin-right:18px;"> CSS </span>
+  </span> |
+
+  <span style="margin-left:18px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22"/>
+    <span style="margin-right:18px;"> JavaScript </span>
+  </span> |
+
+  <span style="margin-left:18px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22"/>
+    <span style="margin-right:18px;"> C++ </span>
+  </span> |
+
+  <span style="margin-left:18px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22"/>
+    <span style="margin-right:18px;"> Python </span>
+  </span> |
+
+  <span style="margin-left:18px;">
+    <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="22"/>
+    <span> AWS Cloud </span>
+  </span>
+
 </p>
+
 
 
 <hr>
