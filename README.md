@@ -11,9 +11,9 @@
 
 <h4 align="left">🔹 Currently Working On</h4>
 <ul>
-  <li>📘 Data Structures & Algorithms using C++</li>
-  <li>🎨 Frontend mini projects (HTML, CSS, JavaScript)</li>
-  <li>☁️ AWS fundamentals & cloud-based deployments</li>
+  <li>📘 Data Structures & Algorithms using C++.</li>
+  <li>🎨 Frontend mini projects (HTML, CSS, JavaScript).</li>
+  <li>☁️ AWS fundamentals & cloud-based deployments.</li>
 </ul>
 
 <hr>
