@@ -56,24 +56,20 @@
 
 ---
 
-<h2>🎯 Current Focus</h2>
-```javascript
-const umesh = {
-  learning: ["Data Structures", "Algorithms", "AWS"],
-  building: ["Frontend Projects", "Mini Applications"],
-  exploring: ["Cloud Computing", "Problem Solving"],
-  goal: "Build strong foundations & become a skilled developer"
-};
-```
+<h2>💻 Coding Profiles</h2>
+
+<p align="center">
+  <a href="https://github.com/DevUmeshh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/DevUmeshh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
 
 ---
 
 <h2>🤝 Let's Connect</h2>
 
 <p align="center">
-  <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="your-portfolio-url"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/umeshjadhav09"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:umeshrajput24196@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
