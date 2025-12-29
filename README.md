@@ -1,56 +1,87 @@
-<h1>👋 Hi, I'm Umesh</h1>
+<h1 align="center">🧑‍💻 Hey, I'm Umesh</h1>
 
-<p>
-🎓 AI & Data Science Student<br>
-💻 Frontend Developer & DSA (C++) Learner<br>
-☁️ Exploring AWS Cloud Computing..<br>
-🚀 Building projects, learning daily & improving step by step
+<p align="center">
+  <b>AI & Data Science Student | Frontend Developer | DSA Enthusiast</b>
+</p>
+
+<p align="center">
+  💡 Turning ideas into code, one commit at a time
 </p>
 
 ---
 
-## 🔹 Currently Working On
+<h2>🎯 What I'm Up To</h2>
 
-- 📘 Data Structures & Algorithms using C++
-- 🎨 Frontend mini projects (HTML, CSS, JavaScript)
-- ☁️ AWS fundamentals & cloud-based deployments
+<table>
+<tr>
+<td width="50%">
+  
+**📚 Learning**
+- Mastering DSA with C++
+- Building frontend projects
+- Exploring AWS Cloud
+
+</td>
+<td width="50%">
+
+**🚀 Goals**
+- Solve 300+ DSA problems
+- Deploy 5 AWS projects
+- Contribute to open source
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔹 Tech Stack
+<h2>⚙️ Tech Stack</h2>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="40" alt="AWS"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,aws" alt="Tech Stack"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Activity</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevUmeshh&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/><br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DevUmeshh&theme=cobalt&hide_border=false" alt="GitHub Streak"/><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevUmeshh&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevUmeshh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=DevUmeshh&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevUmeshh&theme=radical&hide_border=true&layout=compact" width="49%" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🎯 Goal
-
-Become a strong developer & problem solver with solid foundations in DSA, Frontend development, and Cloud technologies.
+<h2>🎯 Current Focus</h2>
+```javascript
+const umesh = {
+  learning: ["Data Structures", "Algorithms", "AWS"],
+  building: ["Frontend Projects", "Mini Applications"],
+  exploring: ["Cloud Computing", "Problem Solving"],
+  goal: "Build strong foundations & become a skilled developer"
+};
+```
 
 ---
 
-<p align="left">
-  <i>💡 Open to collaborations and learning opportunities!</i>
+<h2>🤝 Let's Connect</h2>
+
+<p align="center">
+  <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="your-portfolio-url"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>💬 Open to collaborations and learning opportunities!</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevUmeshh&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
