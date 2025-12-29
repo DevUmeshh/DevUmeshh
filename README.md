@@ -3,7 +3,7 @@
 <p>
 🎓 AI & Data Science Student<br>
 💻 Frontend Developer & DSA (C++) Learner<br>
-☁️ Exploring AWS Cloud Computing<br>
+☁️ Exploring AWS Cloud Computing..<br>
 🚀 Building projects, learning daily & improving step by step
 </p>
 
