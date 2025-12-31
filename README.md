@@ -1,7 +1,7 @@
 <h1 align="center">🧑‍💻 Hey, I'm Umesh</h1>
 
 <p align="center">
-  <b>AI & Data Science Student | Frontend Developer | DSA Enthusiast</b>
+  <b>AI & Data Science Student | Frontend Developer. | DSA Enthusiast</b>
 </p>
 
 <p align="center">
