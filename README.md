@@ -1,42 +1,26 @@
-<!-- ======================= -->
-<!--  README by Developer   -->
-<!--  Crafted with purpose  -->
-<!-- ======================= -->
+<!-- =====================================================
+     README.md
+     Crafted with intent, not copied from templates.
+===================================================== -->
 
-<h1 align="center">👋 Hey, I'm Umesh</h1>
+<h1 align="center">
+  ✨ U M E S H ✨
+</h1>
 
 <p align="center">
-  <b>Engineer | AI & Data Science Student | Frontend Enthusiast</b><br>
-  Turning ideas into clean, scalable, and meaningful code.
+  <i>Engineer in the making • Code with clarity • Design with intent</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Frontend+Focused+Engineer;Learning+DSA+%7C+Web+%7C+Core+CS;Building+Clean+and+Meaningful+Projects" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌌 Who Am I?
 
-I’m a passionate engineering student who believes that **good code is not just written — it’s designed**.
-
-- 🎓 Pursuing **AI & Data Science**
-- 🧠 Strong interest in **problem-solving & system thinking**
-- 🎨 More inclined towards **Frontend & UI/UX**
-- 🛠️ Building projects that balance **logic + aesthetics**
-- 📚 Currently sharpening **DSA, Web Dev & Core CS**
-
-I focus on writing **clean, readable, and purposeful code** rather than rushing features.
-
----
-
-## 🧩 What I’m Working On
-
-```text
-• Strengthening Data Structures & Algorithms (C++)
-• Building modern frontend projects
-• Exploring real-world AI & IoT use-cases
-• Creating project-based learning systems
-• Writing structured technical documentation
+```txt
+Name        : Umesh
+Role        : Engineering Student
+Domain      : AI & Data Science
+Mindset     : Learn deeply, build properly
