@@ -19,4 +19,3 @@
 Name        : Umesh
 Role        : Engineering Student
 Domain      : AI & Data Science
-Mindset     : Learn deeply, build properly
