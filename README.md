@@ -16,7 +16,7 @@
 ## 🌌 Who Am I?
 
 ```txt
-Name        : Umesh
+Name        : Umesh Jadhav
 Role        : Engineering Student
-Domain      : AI & Data Science
+Domain      : AI & Data Science Student
 Mindset     : Learn deeply, build properly
