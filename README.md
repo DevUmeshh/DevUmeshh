@@ -17,6 +17,6 @@
 
 ```txt
 Name        : Umesh Jadhav
-Role        : Engineering Student
-Domain      : AI & Data Science Student
+Role        : Software Engineer
+Domain      : FULL STACK SOFTWARED WITH AWS DEPLOYMENT & AI INTEGRATION
 Mindset     : Learn deeply, build properly
