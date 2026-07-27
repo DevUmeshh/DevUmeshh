@@ -18,5 +18,5 @@
 ```txt
 Name        : Umesh Jadhav
 Role        : Software Engineer
-Domain      : FULL STACK SOFTWARE WITH AWS DEPLOYMENT & AI INTEGRATION
+Domain      : SOFTWARE ENGINEER
 Mindset     : Learn deeply, build properly
