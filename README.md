@@ -1,8 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 
-<h1 align="center">
-  ✨ U M E S H ✨
-</h1>
+<h1 align="center">✨ U M E S H ✨</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;AWS+Cloud+%7C+DSA+in+C%2B%2B;Frontend+Development+Focused;Building+Scalable+Products;Always+Learning..." />
@@ -10,10 +8,10 @@
 
 ---
 
-<table width="100%">
+<table>
 <tr>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
 ### 🚀 About Me
 
@@ -39,44 +37,25 @@ mindset:
   • Improve Everyday
 ```
 
-<td width="55%" valign="top" align="center">
+</td>
 
-<h3>⚡ Tech Stack</h3>
+<td width="58%" valign="top" align="center">
 
-<table>
-<tr>
-<td align="center">
+### ⚡ Tech Stack
 
-<b>Languages</b>
+<br>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=cpp,python" />
-
-<br><br>
-
-<b>Frameworks</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-<br><br>
-
-<b>Cloud & Tools</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,react,aws,git,github,vscode&theme=dark&perline=7"/>
 
 <br><br>
 
 <img
-width="95%"
-src="https://github-readme-stats.vercel.app/api?username=DevUmeshh&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
+width="98%"
+src="https://github-readme-stats.vercel.app/api?username=DevUmeshh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true"/>
 
 </td>
+
 </tr>
 </table>
 
-</td>
+---
