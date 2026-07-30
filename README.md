@@ -1,3 +1,24 @@
+<!-- ================= HERO ================= -->
+
+<h1 align="center">
+  ✨ <strong>U M E S H</strong> ✨
+</h1>
+
+<p align="center">
+  <b>Software Engineer • AI & Data Science Student</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AWS+Cloud+Enthusiast;DSA+with+C%2B%2B;Building+Scalable+Products;Always+Learning..."
+  />
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+
 <table width="100%">
 <tr>
 
