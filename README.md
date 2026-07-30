@@ -1,22 +1,63 @@
-<!-- =====================================================
-     README.md
-     Crafted with intent, not copied from templates.
-===================================================== -->
+<div align="center">
 
-<h1 align="center">
-  ✨ U M E S H ✨
-</h1>
+# Umesh Jadhav
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;AWS+Cloud+%7C+DSA+in+C%2B%2B;Frontend+Development+Focused;Building+Scalable+and+Clean+Projects;Learning+Every+Single+Day" />
+### Software Engineer • AI & Data Science
+
+<p>
+Building scalable software with <b>AI</b>, <b>Cloud</b> and <b>Modern Web Technologies</b>.
 </p>
 
----
+<br>
 
-## 🌌 Who Am I?
+<table>
+<tr>
+<td width="520">
 
-```txt
-Name        : Umesh Jadhav
-Role        : Software Engineer
-Domain      : Full Stack Web Solutions With AI & Cloud Integration
-Mindset     : Learn deeply, build properly
+### About
+
+```yaml
+Focus:
+  • Full Stack Development
+  • AWS Cloud
+  • AI Applications
+  • DSA in C++
+
+Currently:
+  Building real-world scalable software.
+
+Location:
+  India
+```
+
+### Tech
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,react,js,aws,docker,mysql,git,linux,vscode&perline=5"/>
+</p>
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=UmeshJadhav09&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=UmeshJadhav09&theme=github-dark&hide_border=true"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/UmeshJadhav09">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/umeshjadhav09">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
