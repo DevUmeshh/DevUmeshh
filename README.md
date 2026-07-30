@@ -33,21 +33,31 @@ mindset:
   • Improve Everyday
 ```
 
-</td>
+<td width="55%" valign="middle" align="center">
 
-<td width="55%" align="center">
+<h3>⚡ Tech Stack</h3>
 
-### ⚡ Tech Stack
+<br>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,react,aws,git,github,vscode&theme=dark" />
+</p>
+
+<br>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,react,aws,git,github,vscode&perline=7"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
 
 </td>
-
-</tr>
-</table>
-
----
