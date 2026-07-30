@@ -21,45 +21,20 @@
 
 ---
 
-# 👨‍💻 About Me
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-### Hello there! 👋
-
-I'm **Umesh Jadhav**, a **Software Engineering Student** passionate about building modern, scalable, and user-focused applications.
-
-- 🎓 **B.E. Artificial Intelligence & Data Science**
-- 💼 **Aspiring Software Engineer**
-- 🚀 **Focused on Full Stack Development, Cloud & AI**
-- ⚡ **Tech Stack:** C++, Python, JavaScript, React & AWS
-- 🌱 **Currently Learning:** System Design, DevOps & Backend Engineering
-- 🎯 **Mission:** Build scalable software that creates real-world impact
-- 🧠 **Mindset:** Learn → Build → Improve → Repeat
-
-</td>
-
-<td width="40%" align="center">
+## 🌌 Who Am I?
 
 ```text
-      _____
-    .-"     "-.
-   /  ○   ○    \
-  |     ∆       |
-  |   \___/     |
-   \           /
-    '-._____.-'
-
-    U M E S H
+╭──────────────────────────────────────────────────────────────╮
+│ 👤 Name      :: Umesh Jadhav                                
+│ 💼 Role      :: Software Engineering Student                
+│ 🎓 Degree    :: B.E. Artificial Intelligence & Data Science 
+│ 🚀 Focus     :: Full Stack • Cloud • AI • DSA               
+│ 🛠 Tech      :: C++ • Python • React • JavaScript • AWS     
+│ 🌱 Learning  :: System Design • DevOps • Backend            
+│ 🎯 Mission   :: Build scalable, impactful software          
+│ 🧠 Mindset   :: Learn • Build • Improve • Repeat            
+╰──────────────────────────────────────────────────────────────╯
 ```
-
-</td>
-
-</tr>
-</table>
 
 > *"Good code solves problems. Great engineering creates impact."*
 
