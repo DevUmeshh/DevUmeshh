@@ -1,4 +1,24 @@
-<!-- =========================
+<div align="center">
+
+# 👋 Hi, I'm Umesh
+
+### Software Engineer
+
+Building scalable software powered by AI, Cloud & Modern Web Technologies.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,react,nodejs,aws,mysql,git,github,vscode"/>
+
+<br><br>
+
+| 🎯 Focus | 🚀 Learning | 💻 Experience |
+|:-------:|:-----------:|:-------------:|
+| Full Stack | AWS Cloud | React |
+| AI | DSA | Python |
+| Cloud | System Design | Git |
+
+</div><!-- =========================
      PREMIUM PROFILE CARD
 ========================= -->
 
