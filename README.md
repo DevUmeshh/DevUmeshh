@@ -1,43 +1,21 @@
-<div align="center">
+## 🌌 About Me
 
-<table>
+```bash
+┌──(umesh㉿github)-[~/profile]
+└─$ whoami
 
-<tr>
+Name        :: Umesh Jadhav
+Role        :: Software Engineering Student
+Degree      :: B.E. AI & Data Science
+Focus       :: Full Stack • Cloud • AI • DSA
+Tech Stack  :: C++ • JavaScript • React • Python • AWS
+Mission     :: Build scalable software with clean design
+Mindset     :: Learn Deeply • Build Properly • Improve
+Location    :: India
+Status      :: Open to Learning
 
-<td width="70%" valign="top">
+┌──(umesh㉿github)-[~/profile]
+└─$ echo "Code is temporary. Engineering is permanent."
 
-```yaml
-👤 Name        : Umesh Jadhav
-
-🎓 Degree      : B.E. Artificial Intelligence & Data Science
-
-💼 Role        : Software Engineering Student
-
-🚀 Focus       : Full Stack • Cloud • AI • DSA
-
-⚡ Tech Stack  : C++ • Python • React • JavaScript • AWS
-
-🌱 Learning    : System Design • DevOps • Backend
-
-🎯 Mission     : Build scalable software
-
-🧠 Mindset     : Learn → Build → Improve → Repeat
+Code is temporary. Engineering is permanent.
 ```
-
-</td>
-
-<td width="30%" align="center">
-
-<img src="https://github.com/UmeshJadhav09.png" width="180"/>
-
-### Umesh Jadhav
-
-`Software Engineer`
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
