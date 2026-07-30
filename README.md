@@ -37,25 +37,26 @@ mindset:
   • Improve Everyday
 ```
 
-</td>
+---
 
-<td width="58%" valign="top" align="center">
+## 📊 GitHub Analytics
 
-### ⚡ Tech Stack
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=cpp,python,react,aws,git,github,vscode&theme=dark&perline=7"/>
-
-<br><br>
+<p align="center">
 
 <img
-width="98%"
-src="https://github-readme-stats.vercel.app/api?username=DevUmeshh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true"/>
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=DevUmeshh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</td>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevUmeshh&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</tr>
-</table>
+</p>
 
----
+<p align="center">
+
+<img
+width="100%"
+src="https://streak-stats.demolab.com?user=DevUmeshh&theme=tokyonight&hide_border=true"/>
+
+</p>
