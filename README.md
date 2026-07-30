@@ -5,8 +5,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;AI+%26+Data+Science+Undergraduate;AWS+Cloud+%7C+DSA+in+C%2B%2B;Frontend+Developer;Building+Scalable+Software;Learning+Something+New+Every+Day"/>
-
 <br>
 
 <img src="https://img.shields.io/badge/AI%20%26%20DS-0A66C2?style=flat-square"/>
