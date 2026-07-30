@@ -1,21 +1,30 @@
-## 🌌 About Me
+<!-- =====================================================
+     README.md
+     Crafted with intent, not copied from templates.
+===================================================== -->
 
-```bash
-┌──(umesh㉿github)-[~/profile]
-└─$ whoami
+<h1 align="center">
+  ✨ U M E S H ✨
+</h1>
 
-Name        :: Umesh Jadhav
-Role        :: Software Engineering Student
-Degree      :: B.E. AI & Data Science
-Focus       :: Full Stack • Cloud • AI • DSA
-Tech Stack  :: C++ • JavaScript • React • Python • AWS
-Mission     :: Build scalable software with clean design
-Mindset     :: Learn Deeply • Build Properly • Improve
-Location    :: India
-Status      :: Open to Learning
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;AWS+Cloud+%7C+DSA+in+C%2B%2B;Frontend+Development+Focused;Building+Scalable+and+Clean+Projects;Learning+Every+Single+Day" />
+</p>
 
-┌──(umesh㉿github)-[~/profile]
-└─$ echo "Code is temporary. Engineering is permanent."
+---
 
-Code is temporary. Engineering is permanent.
+## 🌌 Who Am I?
+
+```yaml
+name: Umesh Jadhav
+role: Software Engineer
+
+domain:
+  - Full Stack Web Solutions
+  - AI & Cloud Integration
+
+mindset:
+  - Learn Deeply
+  - Build Properly
+  - Improve
 ```
