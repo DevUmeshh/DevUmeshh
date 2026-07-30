@@ -5,6 +5,10 @@
 
 <div align="center">
 
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6D28D9,40:8B5CF6,70:A855F7,100:C084FC&text=Umesh%20Jadhav&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Software%20Engineering%20Student%20•%20Full%20Stack%20•%20Cloud%20•%20AI&descAlignY=62&descSize=18"/>
+</p>
+
 <br>
 
 <img src="https://img.shields.io/badge/AI%20%26%20DS-0A66C2?style=flat-square"/>
