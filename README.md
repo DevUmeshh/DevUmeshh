@@ -21,21 +21,27 @@
 
 ---
 
-## 🌌 Who Am I?
+<div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│ 👤 Name      :: Umesh Jadhav                                
-│ 💼 Role      :: Software Engineering Student                
-│ 🎓 Degree    :: B.E. Artificial Intelligence & Data Science 
-│ 🚀 Focus     :: Full Stack • Cloud • AI • DSA               
-│ 🛠 Tech      :: C++ • Python • React • JavaScript • AWS     
-│ 🌱 Learning  :: System Design • DevOps • Backend            
-│ 🎯 Mission   :: Build scalable, impactful software          
-│ 🧠 Mindset   :: Learn • Build • Improve • Repeat            
-╰──────────────────────────────────────────────────────────────╯
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=👋+Hello%2C+I'm+Umesh+Jadhav;Software+Engineering+Student;Full+Stack+Developer;AWS+Cloud+Enthusiast;Learning+Every+Single+Day"/>
+
+</div>
+
+```yaml
+Name        : Umesh Jadhav
+Role        : Software Engineering Student
+Degree      : B.E. Artificial Intelligence & Data Science
+
+Focus       : Full Stack • Cloud • AI • DSA
+
+Tech Stack  : C++ • Python • React • JavaScript • AWS
+
+Learning    : System Design • DevOps • Backend
+
+Mission     : Build scalable, impactful software
+
+Mindset     : Learn → Build → Improve → Repeat
 ```
-
 > *"Good code solves problems. Great engineering creates impact."*
 
 ---
