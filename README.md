@@ -1,17 +1,7 @@
-<!-- ========================= HEADER ========================= -->
-
-<h1 align="center">✨ U M E S H ✨</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;AWS+Cloud+%7C+DSA+in+C%2B%2B;Frontend+Development+Focused;Building+Scalable+Products;Always+Learning..." />
-</p>
-
----
-
-<table>
+<table width="100%">
 <tr>
 
-<td width="42%" valign="top">
+<td width="45%" valign="top">
 
 ### 🚀 About Me
 
@@ -37,26 +27,38 @@ mindset:
   • Improve Everyday
 ```
 
+</td>
+
+<td width="55%" align="center" valign="middle">
+
+<h3>⚡ Tech Stack</h3>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,react,aws&theme=dark" />
+
+<br><br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<br><br>
+
+<p align="center">
+<b>C++</b> &nbsp;•&nbsp;
+<b>Python</b> &nbsp;•&nbsp;
+<b>React</b> &nbsp;•&nbsp;
+<b>AWS</b>
+
+<br><br>
+
+<b>Git</b> &nbsp;•&nbsp;
+<b>GitHub</b> &nbsp;•&nbsp;
+<b>VS Code</b>
+</p>
+
+</td>
+
+</tr>
+</table>
+
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=DevUmeshh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevUmeshh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img
-width="100%"
-src="https://streak-stats.demolab.com?user=DevUmeshh&theme=tokyonight&hide_border=true"/>
-
-</p>
