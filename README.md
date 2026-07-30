@@ -57,26 +57,23 @@
 
 Name        : Umesh Jadhav
 
+
 Role        : Software Engineering Student
 
-Degree      : B.E. Artificial Intelligence & Data Science
 
+Degree      : B.E. Artificial Intelligence & Data Science
 
 
 Focus       : Full Stack • Cloud • AI • DSA
 
 
-
 Tech Stack  : C++ • Python • React • JavaScript • AWS
-
 
 
 Learning    : System Design • DevOps • Backend
 
 
-
 Mission     : Build scalable, impactful software
-
 
 
 Mindset     : Learn → Build → Improve → Repeat
