@@ -19,10 +19,7 @@
 </p>
 
 
-
 <br>
-
-
 
 <img src="https://img.shields.io/badge/AI%20%26%20DS-0A66C2?style=flat-square"/>
 
