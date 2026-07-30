@@ -39,18 +39,44 @@ mindset:
   • Improve Everyday
 ```
 
-<td width="55%" valign="middle" align="center">
+<td width="55%" valign="top" align="center">
 
-<br><br><br>
+<h3>⚡ Tech Stack</h3>
 
-<img
-src="https://skillicons.dev/icons?i=cpp,python,react,aws,git,github,vscode&theme=dark"
-/>
+<table>
+<tr>
+<td align="center">
+
+<b>Languages</b>
 
 <br><br>
 
-<b>C++</b> • <b>Python</b> • <b>React</b> • <b>AWS</b> • <b>Git</b> • <b>GitHub</b> • <b>VS Code</b>
+<img src="https://skillicons.dev/icons?i=cpp,python" />
 
-<br><br><br>
+<br><br>
+
+<b>Frameworks</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react" />
+
+<br><br>
+
+<b>Cloud & Tools</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+
+<br><br>
+
+<img
+width="95%"
+src="https://github-readme-stats.vercel.app/api?username=DevUmeshh&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
+
+</td>
+</tr>
+</table>
 
 </td>
