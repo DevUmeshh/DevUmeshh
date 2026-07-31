@@ -25,10 +25,6 @@ Currently open to **SDE, Frontend, Cloud, and DevOps** roles.
 
 <img src="https://skillicons.dev/icons?i=cpp,py,js,react,aws,mysql&theme=dark&perline=3" width="230"/>
 
-<br/><br/>
-
-`C++` `Python` `JavaScript` `React` `AWS` `MySQL`
-
 </td>
 <td width="33%" valign="top" align="center">
 
@@ -38,9 +34,13 @@ Currently open to **SDE, Frontend, Cloud, and DevOps** roles.
 
 <img src="https://streak-stats.demolab.com/?user=DevUmeshh&theme=radical&hide_border=true&background=0D1117&ring=00c6ff&fire=ff6b6b&currStreakLabel=00c6ff&sideNums=ffffff&sideLabels=cfd8dc&dates=8b949e" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevUmeshh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00c6ff&icon_color=ff6b6b&text_color=cfd8dc" width="100%"/>
+<img src="https://img.shields.io/github/followers/DevUmeshh?label=Followers&style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github&logoColor=00c6ff"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=DevUmeshh&label=Profile%20Views&color=0D1117&style=for-the-badge"/>
 
 </td>
 </tr>
