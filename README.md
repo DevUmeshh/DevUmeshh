@@ -18,9 +18,9 @@
 
 ### About Me
 
-> I build things - web apps, cloud pipelines, and solutions to hard problems.
+> I build things — web apps, cloud pipelines, and solutions to hard problems.
 
-Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning theory into production practice - working across **AWS, CI/CD, Linux, and Git** at Sumago Infotech and Arrow Technologies. I build responsive frontends with **React** and **JavaScript**, write backend logic in **Python**, and keep my fundamentals sharp with **DSA in C++**.
+Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning theory into production practice — working across **AWS, CI/CD, Linux, and Git** at Sumago Infotech and Arrow Technologies. I build responsive frontends with **React** and **JavaScript**, write backend logic in **Python**, and keep my fundamentals sharp with **DSA in C++**.
 
 **Currently open to:**
 
@@ -75,11 +75,11 @@ Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning
 
 <br/>
 
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DevUmeshh&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=1a0933&labelColor=1a0933&logoColor=c084fc)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDevUmeshh&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=1a0933&labelColor=1a0933&logoColor=c084fc)
 <br/><br/>
 ![Followers](https://img.shields.io/github/followers/DevUmeshh?label=Followers&style=for-the-badge&color=1a0933&labelColor=1a0933&logo=github&logoColor=c084fc)
 <br/><br/>
-![Following](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DevUmeshh&label=Following&query=%24.following&style=for-the-badge&color=1a0933&labelColor=1a0933&logoColor=c084fc)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDevUmeshh&label=Following&query=%24.following&style=for-the-badge&color=1a0933&labelColor=1a0933&logoColor=c084fc)
 
 </td>
 </tr>
@@ -88,5 +88,9 @@ Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning
 <br/>
 
 <div align="center">
+
+*"Clean code, curious mind, and always shipping."*
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0933,50:3b0764,100:581c87&height=90&section=footer" width="100%"/>
+
 </div>
