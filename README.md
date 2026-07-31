@@ -61,11 +61,21 @@ Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning
 
 <br/>
 
+**Current Streak**
+
 <img src="https://streak-stats.demolab.com/?user=DevUmeshh&theme=radical&hide_border=true&background=1a0933&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideNums=ffffff&sideLabels=e9d5ff&dates=b794f4" width="100%"/>
 
 <br/><br/>
 
+**Contribution Activity**
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevUmeshh&theme=react-dark&hide_border=true&bg_color=1a0933&color=e9d5ff&line=c084fc&point=ffffff&area=true&area_color=c084fc" width="100%"/>
+
+<br/><br/>
+
+**Top Languages**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevUmeshh&layout=compact&theme=radical&hide_border=true&bg_color=1a0933&title_color=c084fc&text_color=e9d5ff" width="100%"/>
 
 </td>
 </tr>
