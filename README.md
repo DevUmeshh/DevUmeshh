@@ -8,16 +8,13 @@
 <tr>
 <td width="34%" valign="top">
 
-### 🚀 About Me
+### About Me
 
 I build things — web apps, cloud pipelines, and solutions to hard problems.
 
-🎓 Finishing **B.E. in AI & Data Science**, SPPU
-☁️ Hands-on DevOps: **AWS · CI/CD · Linux · Git** at Sumago Infotech & Arrow Technologies
-💻 Frontend: **React · JS · HTML/CSS** | Backend: **Python**
-🧠 Sharpening **DSA in C++** daily
+Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning theory into production practice — working across **AWS, CI/CD, Linux, and Git** at Sumago Infotech and Arrow Technologies. I build responsive frontends with **React** and **JavaScript**, write backend logic in **Python**, and keep my fundamentals sharp with **DSA in C++**.
 
-🎯 Open to **SDE / Frontend / Cloud / DevOps** roles
+Currently open to **SDE, Frontend, Cloud, and DevOps** roles.
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -26,14 +23,11 @@ I build things — web apps, cloud pipelines, and solutions to hard problems.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=cpp,py,js,react,aws,mysql&theme=dark&perline=3" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,py,js,react,aws,mysql&theme=dark&perline=3" width="230"/>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><br/><br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br/><br/>
+
+`C++` `Python` `JavaScript` `React` `AWS` `MySQL`
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -43,6 +37,10 @@ I build things — web apps, cloud pipelines, and solutions to hard problems.
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=DevUmeshh&theme=radical&hide_border=true&background=0D1117&ring=00c6ff&fire=ff6b6b&currStreakLabel=00c6ff&sideNums=ffffff&sideLabels=cfd8dc&dates=8b949e" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DevUmeshh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00c6ff&icon_color=ff6b6b&text_color=cfd8dc" width="100%"/>
 
 </td>
 </tr>
