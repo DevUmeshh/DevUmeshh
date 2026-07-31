@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0933,50:3b0764,100:581c87&height=140&section=header&text=Umesh%20Jadhav&fontSize=46&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=E9D5FF&center=true&vCenter=true&width=460&lines=Software+Engineer;Cloud+%26+DevOps+Enthusiast;C%2B%2B+%2F+DSA+Practitioner" alt="typing-svg"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0933,50:3b0764,100:581c87&height=150&section=header&text=Umesh%20Jadhav&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=58&descSize=16&descColor=e9d5ff" width="100%"/>
 
 <br/>
 
@@ -46,6 +44,15 @@ Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning
 <br/><br/>
 ![AWS](https://img.shields.io/badge/AWS-1a0933?style=for-the-badge&logo=amazonaws&logoColor=c084fc)
 ![MySQL](https://img.shields.io/badge/MySQL-1a0933?style=for-the-badge&logo=mysql&logoColor=c084fc)
+
+<br/><br/>
+
+**Also using**
+
+<br/>
+
+![Git](https://img.shields.io/badge/Git-1a0933?style=for-the-badge&logo=git&logoColor=c084fc)
+![Linux](https://img.shields.io/badge/Linux-1a0933?style=for-the-badge&logo=linux&logoColor=c084fc)
 
 </td>
 <td width="33%" valign="top" align="center">
