@@ -71,9 +71,15 @@ Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning
 
 <br/>
 
-**Achievements**
+**Quick Stats**
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevUmeshh&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=6&margin-h=6" width="100%"/>
+<br/>
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DevUmeshh&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=1a0933&labelColor=1a0933&logoColor=c084fc)
+<br/><br/>
+![Followers](https://img.shields.io/github/followers/DevUmeshh?label=Followers&style=for-the-badge&color=1a0933&labelColor=1a0933&logo=github&logoColor=c084fc)
+<br/><br/>
+![Following](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DevUmeshh&label=Following&query=%24.following&style=for-the-badge&color=1a0933&labelColor=1a0933&logoColor=c084fc)
 
 </td>
 </tr>
