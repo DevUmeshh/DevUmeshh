@@ -1,11 +1,12 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0933,50:3b0764,100:581c87&height=150&section=header&text=Umesh%20Jadhav&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer&descAlignY=58&descSize=17&descColor=e9d5ff" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0933?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://linkedin.com/in/umeshjadhav09)
-[![Email](https://img.shields.io/badge/Email-1a0933?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:umeshrajput24196@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-1a0933?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:umeshrajput24196@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0933?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/DevUmeshh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0933?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/umeshjadhav09)
+[![Instagram](https://img.shields.io/badge/Instagram-1a0933?style=for-the-badge&logo=instagram&logoColor=c084fc)](https://www.instagram.com/umeshh.jadhav?igsh=ZjNsbHp4dmlyOTk0)
 ![Location](https://img.shields.io/badge/Nashik,_India-1a0933?style=for-the-badge&logo=googlemaps&logoColor=c084fc)
 
 </div>
@@ -24,35 +25,50 @@ Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning
 
 **Currently open to:**
 
-![SDE](https://img.shields.io/badge/SDE-1a0933?style=for-the-badge&logoColor=c084fc)
-![Frontend](https://img.shields.io/badge/Frontend-1a0933?style=for-the-badge&logoColor=c084fc)
-![Cloud](https://img.shields.io/badge/Cloud-1a0933?style=for-the-badge&logoColor=c084fc)
-![DevOps](https://img.shields.io/badge/DevOps-1a0933?style=for-the-badge&logoColor=c084fc)
+![SDE](https://img.shields.io/badge/SDE-1a0933?style=for-the-badge&logo=codemagic&logoColor=c084fc)
+![Frontend](https://img.shields.io/badge/Frontend-1a0933?style=for-the-badge&logo=react&logoColor=c084fc)
+![Cloud](https://img.shields.io/badge/Cloud-1a0933?style=for-the-badge&logo=icloud&logoColor=c084fc)
+![DevOps](https://img.shields.io/badge/DevOps-1a0933?style=for-the-badge&logo=githubactions&logoColor=c084fc)
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### Tech Stack
 
+**Languages**
+<br/>
+![C++](https://img.shields.io/badge/C++-1a0933?style=for-the-badge&logo=cplusplus&logoColor=c084fc)
+![Python](https://img.shields.io/badge/Python-1a0933?style=for-the-badge&logo=python&logoColor=c084fc)
+
 <br/>
 
-![C++](https://img.shields.io/badge/C++-1a0933?style=for-the-badge&logo=c%2B%2B&logoColor=c084fc)
-![Python](https://img.shields.io/badge/Python-1a0933?style=for-the-badge&logo=python&logoColor=c084fc)
-<br/><br/>
+**Full Stack Development**
+<br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a0933?style=for-the-badge&logo=javascript&logoColor=c084fc)
 ![React](https://img.shields.io/badge/React-1a0933?style=for-the-badge&logo=react&logoColor=c084fc)
 <br/><br/>
-![AWS](https://img.shields.io/badge/AWS-1a0933?style=for-the-badge&logo=amazonaws&logoColor=c084fc)
-![MySQL](https://img.shields.io/badge/MySQL-1a0933?style=for-the-badge&logo=mysql&logoColor=c084fc)
-
+![HTML5](https://img.shields.io/badge/HTML5-1a0933?style=for-the-badge&logo=html5&logoColor=c084fc)
+![CSS3](https://img.shields.io/badge/CSS3-1a0933?style=for-the-badge&logo=css3&logoColor=c084fc)
 <br/><br/>
-
-**Also using**
+![Node.js](https://img.shields.io/badge/Node.js-1a0933?style=for-the-badge&logo=nodedotjs&logoColor=c084fc)
+![MySQL](https://img.shields.io/badge/MySQL-1a0933?style=for-the-badge&logo=mysql&logoColor=c084fc)
 
 <br/>
 
-![Git](https://img.shields.io/badge/Git-1a0933?style=for-the-badge&logo=git&logoColor=c084fc)
+**Cloud & Deployment**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-1a0933?style=for-the-badge&logo=amazonaws&logoColor=c084fc)
+![Vercel](https://img.shields.io/badge/Vercel-1a0933?style=for-the-badge&logo=vercel&logoColor=c084fc)
+
+<br/>
+
+**Command Line & Tools**
+<br/>
 ![Linux](https://img.shields.io/badge/Linux-1a0933?style=for-the-badge&logo=linux&logoColor=c084fc)
+![Git](https://img.shields.io/badge/Git-1a0933?style=for-the-badge&logo=git&logoColor=c084fc)
+<br/><br/>
+![GitHub](https://img.shields.io/badge/GitHub-1a0933?style=for-the-badge&logo=github&logoColor=c084fc)
+![VS Code](https://img.shields.io/badge/VS_Code-1a0933?style=for-the-badge&logo=visualstudiocode&logoColor=c084fc)
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -72,10 +88,8 @@ Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning
 <br/>
 
 **Quick Stats**
-
 <br/>
-
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDevUmeshh&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=1a0933&labelColor=1a0933&logoColor=c084fc)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDevUmeshh&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=1a0933&labelColor=1a0933&logo=github&logoColor=c084fc)
 <br/><br/>
 ![Followers](https://img.shields.io/github/followers/DevUmeshh?label=Followers&style=for-the-badge&color=1a0933&labelColor=1a0933&logo=github&logoColor=c084fc)
 
