@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:c2410c,100:f59e0b&height=150&section=header&text=Umesh%20Jadhav&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer&descAlignY=58&descSize=17&descColor=1a1a1a" width="100%"/>
 
-<br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&labelColor=1a1a1a&logo=gmail&logoColor=f59e0b)](mailto:umeshrajput24196@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&labelColor=1a1a1a&logo=github&logoColor=f59e0b)](https://github.com/DevUmeshh)
