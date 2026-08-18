@@ -75,7 +75,6 @@ Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning
 
 ### GitHub Streak
 
-
 **Current Streak**
 
 <img src="https://streak-stats.demolab.com/?user=DevUmeshh&theme=radical&hide_border=true&background=161b22&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideNums=ffffff&sideLabels=fbbf24&dates=fdba74" width="100%"/>
