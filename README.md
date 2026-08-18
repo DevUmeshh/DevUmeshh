@@ -3,7 +3,7 @@
 
 <br/>
 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&labelColor=1a1a1a&logo=googlechrome&logoColor=f59e0b)](https://bit.ly/UmeshPortfolio)
 [![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&labelColor=1a1a1a&logo=gmail&logoColor=f59e0b)](mailto:umeshrajput24196@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&labelColor=1a1a1a&logo=github&logoColor=f59e0b)](https://github.com/DevUmeshh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&labelColor=1a1a1a&logo=linkedin&logoColor=f59e0b)](https://www.linkedin.com/in/umeshjadhav09)
@@ -107,4 +107,3 @@ Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:c2410c,100:161b22&height=90&section=footer" width="100%"/>
 
 </div>
-
