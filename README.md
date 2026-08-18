@@ -22,6 +22,7 @@
 
 > I build things — web apps, cloud pipelines, and solutions to hard problems.
 
+
 Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning theory into production practice — working across **AWS, CI/CD, Linux, and Git** at Sumago Infotech and Arrow Technologies. I build responsive frontends with **React** and **JavaScript**, write backend logic in **Python**, and keep my fundamentals sharp with **DSA in C++**.
 
 **Currently open to:**
