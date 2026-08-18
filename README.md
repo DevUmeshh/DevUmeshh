@@ -9,6 +9,30 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&labelColor=1a1a1a&logo=linkedin&logoColor=f59e0b)](https://www.linkedin.com/in/umeshjadhav09)
 [![Instagram](https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&labelColor=1a1a1a&logo=instagram&logoColor=f59e0b)](https://www.instagram.com/umeshh.jadhav)
 ![Location](https://img.shields.io/badge/Nashik,_India-161b22?style=for-the-badge&labelColor=1a1a1a&logo=googlemaps&logoColor=f59e0b)
+![Profile Views](https://komarev.com/ghpvc/?username=DevUmeshh&style=for-the-badge&color=161b22&labelColor=1a1a1a&label=PROFILE+VIEWS)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=600&lines=I+build+things+that+ship.;Frontend+%7C+Cloud+%7C+DevOps;Turning+theory+into+production+practice." alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+### About Me
+
+> I build things — web apps, cloud pipelines, and solutions to hard problems.
+
+Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning theory into production practice — working across **AWS, CI/CD, Linux, and Git** at Sumago Infotech and Arrow Technologies. I build responsive frontends with **React** and **JavaScript**, write backend logic in **Python**, and keep my fundamentals sharp with **DSA in C++**.
+
+<div align="center">
+
+**Currently open to:**
+<br/><br/>
+![SDE](https://img.shields.io/badge/SDE-161b22?style=for-the-badge&labelColor=1a1a1a&logoColor=f59e0b)
+![Frontend](https://img.shields.io/badge/Frontend-161b22?style=for-the-badge&labelColor=1a1a1a&logoColor=f59e0b)
+![Cloud](https://img.shields.io/badge/Cloud-161b22?style=for-the-badge&labelColor=1a1a1a&logoColor=f59e0b)
+![DevOps](https://img.shields.io/badge/DevOps-161b22?style=for-the-badge&labelColor=1a1a1a&logoColor=f59e0b)
 
 </div>
 
@@ -16,24 +40,7 @@
 
 <table width="100%">
 <tr>
-<td width="34%" valign="top">
-
-### About Me
-
-> I build things — web apps, cloud pipelines, and solutions to hard problems.
-
-
-Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning theory into production practice — working across **AWS, CI/CD, Linux, and Git** at Sumago Infotech and Arrow Technologies. I build responsive frontends with **React** and **JavaScript**, write backend logic in **Python**, and keep my fundamentals sharp with **DSA in C++**.
-
-**Currently open to:**
-
-![SDE](https://img.shields.io/badge/SDE-161b22?style=for-the-badge&labelColor=1a1a1a&logoColor=f59e0b)
-![Frontend](https://img.shields.io/badge/Frontend-161b22?style=for-the-badge&labelColor=1a1a1a&logoColor=f59e0b)
-![Cloud](https://img.shields.io/badge/Cloud-161b22?style=for-the-badge&labelColor=1a1a1a&logoColor=f59e0b)
-![DevOps](https://img.shields.io/badge/DevOps-161b22?style=for-the-badge&labelColor=1a1a1a&logoColor=f59e0b)
-
-</td>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### Tech Stack
 
@@ -72,31 +79,68 @@ Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning
 ![VS Code](https://img.shields.io/badge/VS_Code-161b22?style=for-the-badge&labelColor=1a1a1a&logo=visualstudiocode&logoColor=f59e0b)
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
-### GitHub Streak
+### GitHub Stats
 
-**Current Streak**
-
-<img src="https://streak-stats.demolab.com/?user=DevUmeshh&theme=radical&hide_border=true&background=161b22&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideNums=ffffff&sideLabels=fbbf24&dates=fdba74" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevUmeshh&show_icons=true&theme=radical&hide_border=true&bg_color=161b22&title_color=f59e0b&icon_color=f59e0b&text_color=ffffff" width="100%"/>
 
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevUmeshh&layout=compact&theme=radical&hide_border=true&bg_color=161b22&title_color=f59e0b&text_color=ffffff" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+**GitHub Streak**
+
+<img src="https://streak-stats.demolab.com/?user=DevUmeshh&theme=radical&hide_border=true&background=161b22&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideNums=ffffff&sideLabels=fbbf24&dates=fdba74" width="70%"/>
+
+<br/><br/>
 
 **Contribution Activity**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevUmeshh&theme=react-dark&hide_border=true&bg_color=161b22&color=fbbf24&line=f59e0b&point=ffffff&area=true&area_color=f59e0b" width="100%"/>
 
+</div>
+
 <br/>
 
-**Quick Stats**
-<br/>
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDevUmeshh&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=161b22&labelColor=1a1a1a&logoColor=f59e0b)
-<br/><br/>
-![Followers](https://img.shields.io/github/followers/DevUmeshh?label=Followers&style=for-the-badge&color=161b22&labelColor=1a1a1a&logo=github&logoColor=f59e0b)
+<div align="center">
 
+### Featured Projects
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/DevUmeshh?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DevUmeshh&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=161b22&title_color=f59e0b&icon_color=f59e0b&text_color=ffffff" width="100%"/>
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/DevUmeshh?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DevUmeshh&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=161b22&title_color=f59e0b&icon_color=f59e0b&text_color=ffffff" width="100%"/>
+</a>
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+### Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=DevUmeshh&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%"/>
+
+</div>
 
 <br/>
 
