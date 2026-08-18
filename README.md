@@ -107,3 +107,4 @@ Finishing my B.E. in AI & Data Science at SPPU, I've spent the last year turning
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:c2410c,100:161b22&height=90&section=footer" width="100%"/>
 
 </div>
+
